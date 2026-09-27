@@ -13,3 +13,5 @@ docs/preflight-*.json
 frontend/node_modules/
 frontend/dist/
 frontend/.vercel/
+
+.vercel
