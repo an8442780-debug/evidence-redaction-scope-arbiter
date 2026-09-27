@@ -10,3 +10,5 @@ docs/preflight-state.json
 docs/preflight-input2.json
 docs/preflight-state2.json
 docs/preflight-*.json
+frontend/node_modules/
+frontend/dist/
