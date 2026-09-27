@@ -4,3 +4,6 @@ artifacts/
 .env
 AGENTS.md
 CLAUDE.md
+docs/preflight/
+docs/preflight-input.json
+docs/preflight-state.json
