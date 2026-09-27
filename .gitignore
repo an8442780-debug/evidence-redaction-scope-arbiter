@@ -12,3 +12,4 @@ docs/preflight-state2.json
 docs/preflight-*.json
 frontend/node_modules/
 frontend/dist/
+frontend/.vercel/
